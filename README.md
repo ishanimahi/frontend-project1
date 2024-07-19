@@ -14,3 +14,6 @@
 ` $ docker push $DOCKER_USER_ID/sentiment-analysis-frontend `
 
 #####
+
+test1
+test2
